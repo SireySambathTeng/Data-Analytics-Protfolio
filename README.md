@@ -1,11 +1,6 @@
-Data Science & Analytics Protfolio
+# Data Science & Analytics Protfolio
+This repository contains projects and visualizations created from the Data Science & Analytic program with California State University of Long Beach.
 
-
-This repository contains projects and visualizations created from the Data Science & Analytic program with CSULB.
-
-
-SQL
-
-Statistic
-
-Visuall Communication
+## SQL
+## Statistic
+## Visuall Communication
